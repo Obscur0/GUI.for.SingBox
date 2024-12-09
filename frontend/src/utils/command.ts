@@ -196,24 +196,14 @@ export const getCommands = () => {
               handler: () => (appSettings.app.color = Color.Orange)
             },
             {
-              label: 'settings.color.pink',
-              cmd: 'Pink',
-              handler: () => (appSettings.app.color = Color.Pink)
-            },
-            {
-              label: 'settings.color.red',
-              cmd: 'Red',
-              handler: () => (appSettings.app.color = Color.Red)
+              label: 'settings.color.yellow',
+              cmd: 'Yellow',
+              handler: () => (appSettings.app.color = Color.Yellow)
             },
             {
               label: 'settings.color.skyblue',
               cmd: 'Skyblue',
               handler: () => (appSettings.app.color = Color.Skyblue)
-            },
-            {
-              label: 'settings.color.green',
-              cmd: 'Green',
-              handler: () => (appSettings.app.color = Color.Green)
             },
             {
               label: 'settings.color.purple',
