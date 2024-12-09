@@ -30,7 +30,8 @@ export enum Theme {
 
 export enum Lang {
   EN = 'en',
-  ZH = 'zh'
+  ZH = 'zh',
+  RU = 'ru'
 }
 
 export enum View {
