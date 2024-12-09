@@ -247,7 +247,7 @@ export default {
   },
   router: {
     overview: 'OverView',
-    subscriptions: 'Subscriptions',
+    subscriptions: 'Подписка',
     rulesets: 'Rulesets',
     plugins: 'Plugins',
     settings: 'Settings',
