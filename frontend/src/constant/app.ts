@@ -42,10 +42,8 @@ export enum View {
 export enum Color {
   Default = 'default',
   Orange = 'orange',
-  Pink = 'pink',
-  Red = 'red',
+  Yellow = 'yellow',
   Skyblue = 'skyblue',
-  Green = 'green',
   Purple = 'purple'
 }
 
@@ -56,27 +54,19 @@ export const Colors = {
   },
   [Color.Orange]: {
     primary: 'orange',
-    secondary: '#ab7207'
+    secondary: '#d6a976'
   },
-  [Color.Pink]: {
-    primary: 'pink',
-    secondary: '#f1768b'
-  },
-  [Color.Red]: {
-    primary: 'red',
-    secondary: '#9e0404'
+  [Color.Yellow]: {
+    primary: 'yellow',
+    secondary: '#d38e33'
   },
   [Color.Skyblue]: {
     primary: 'skyblue',
-    secondary: '#0ca4e2'
-  },
-  [Color.Green]: {
-    primary: 'green',
-    secondary: '#025f02'
+    secondary: '#5f8ba8'
   },
   [Color.Purple]: {
     primary: 'purple',
-    secondary: '#6a0f9c'
+    secondary: '#6b47a1'
   }
 }
 
