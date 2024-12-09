@@ -57,20 +57,12 @@ const colors = [
     value: Color.Orange
   },
   {
-    label: 'settings.color.pink',
-    value: Color.Pink
-  },
-  {
-    label: 'settings.color.red',
-    value: Color.Red
+    label: 'settings.color.yellow',
+    value: Color.Yellow
   },
   {
     label: 'settings.color.skyblue',
     value: Color.Skyblue
-  },
-  {
-    label: 'settings.color.green',
-    value: Color.Green
   },
   {
     label: 'settings.color.purple',
