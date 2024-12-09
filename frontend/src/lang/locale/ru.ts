@@ -369,16 +369,16 @@ export default {
     }
   },
   profile: {
-    name: 'Name',
+    name: 'Имя',
     generalSettings: 'General Settings',
-    advancedSettings: 'Advanced Settings',
+    advancedSettings: 'Расширенные настройки',
     step: {
-      name: 'Name',
-      general: 'General',
+      name: 'Имя',
+      general: 'Основные',
       tun: 'TUN',
       dns: 'DNS',
       groups: 'Прокси-группы',
-      dnsRules: 'DNS Rules',
+      dnsRules: 'Правила DNS',
       rules: 'Правила маршрутизации',
       'mixin-script': 'Mixin & Script'
     },
