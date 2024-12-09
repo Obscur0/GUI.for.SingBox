@@ -537,7 +537,8 @@ export default {
     lang: {
       name: 'Language',
       zh: '简体中文',
-      en: 'English'
+      en: 'English',
+      ru: 'Русский'
     },
     pages: {
       name: 'Page visibility'
