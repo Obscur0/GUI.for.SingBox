@@ -275,7 +275,7 @@ export default {
       stop: 'Остановить ядро',
       restart: 'Перезапустить ядро',
       viewlog: 'Просмотр лога',
-      start: 'Запустить',
+      start: 'Запуск',
       noLogs: 'Лог пустой',
       systemProxy: 'System Proxy',
       tunMode: 'TUN Mode',
