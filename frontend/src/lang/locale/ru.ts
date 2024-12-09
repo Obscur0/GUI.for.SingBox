@@ -401,12 +401,12 @@ export default {
   profiles: {
     shouldStop: 'Unable to delete, this profile is in use.',
     empty: 'The profiles list is empty, Please{action}a profile first.',
-    copytoClipboard: 'Generate config to clipboard',
-    generateAndView: 'Generate and View',
-    copy: 'Copy and Paste',
-    start: 'Start/Restart with this Profile',
-    proxyGroups: 'Proxy Groups',
-    rules: 'Rules'
+    copytoClipboard: 'Сгенерировать конфигурацию в буфер обмена',
+    generateAndView: 'Сгенерировать и посмотреть',
+    copy: 'Копировать и вставить',
+    start: 'Старт/Рестарт с этим профилем',
+    proxyGroups: 'Прокси-группы',
+    rules: 'Правила'
   },
   ruleset: {
     manual: 'MANUAL',
