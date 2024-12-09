@@ -3,7 +3,7 @@ export default {
     grid: 'Сетка',
     list: 'Список',
     add: 'Добавить',
-    added: 'Added',
+    added: 'Добавлено',
     more: 'More',
     edit: 'Редактировать',
     clear: 'Очистить',
@@ -42,7 +42,7 @@ export default {
     selectAll: 'Select All',
     http: 'Remote',
     file: 'Local',
-    openFile: 'Open File',
+    openFile: 'Открыть файл',
     develop: 'Develop',
     canceled: 'Canceled',
     downloading: 'Downloading...'
@@ -358,9 +358,9 @@ export default {
     website: 'Website',
     empty: 'The subscription list is empty. Please{action}a subscription first.',
     enterLink: 'Enter subscription link',
-    proxyCount: 'Proxy Count',
-    editProxies: 'Edit Proxies',
-    editSourceFile: 'Edit Proxies(Source)',
+    proxyCount: 'Колличество прокси',
+    editProxies: 'Редактировать прокси',
+    editSourceFile: 'Редактировать прокси(Исходник)',
     copySub: 'Copy Link',
     proxies: {
       type: 'Protocol',
@@ -411,8 +411,8 @@ export default {
   ruleset: {
     manual: 'MANUAL',
     format: {
-      name: 'Format',
-      source: 'Source',
+      name: 'Формат',
+      source: 'Источник',
       binary: 'Binary'
     },
     rulesetType: 'Ruleset Type',
