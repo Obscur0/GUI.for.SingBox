@@ -25,7 +25,7 @@ export default {
     reset: 'Reset',
     pause: 'Pause',
     resume: 'Resume',
-    details: 'Details',
+    details: 'Подробно',
     updateAll: 'Update All',
     updateTime: 'Update Time',
     keywords: 'Keywords',
@@ -303,7 +303,7 @@ export default {
     connections: {
       type: 'Type',
       process: 'Process',
-      processPath: 'Process Path',
+      processPath: 'Process Path ',
       sniffHost: 'Sniff Host',
       sourceIP: 'Source',
       remoteDestination: 'Destination',
@@ -316,15 +316,15 @@ export default {
       uploadSpeed: 'UL Speed',
       downSpeed: 'DL Speed',
       time: 'Time',
-      close: 'Close',
-      addToDirect: 'Add To DIRECT',
-      addToProxy: 'Add To PROXY',
-      addToReject: 'Add To REJECT',
-      active: 'Active',
-      closed: 'Closed',
-      closeAll: 'Close all connections',
+      close: 'Закрыть',
+      addToDirect: 'Добавить в DIRECT',
+      addToProxy: 'Добавить в PROXY',
+      addToReject: 'Добавить в REJECT',
+      active: 'Активные',
+      closed: 'Закрытые',
+      closeAll: 'Закрыть все соединения',
       sort: 'Sorting and Setting Visibility',
-      details: 'Connection Details'
+      details: 'Подробности подключения'
     }
   },
   subscribe: {
