@@ -246,17 +246,17 @@ export default {
     restart: 'Restart Kernel'
   },
   router: {
-    overview: 'Обзор',
-    subscriptions: 'Подписки',
-    rulesets: 'Наборы правил',
-    plugins: 'Плагины',
-    settings: 'Настройки',
+    overview: 'OverView',
+    subscriptions: 'Subscriptions',
+    rulesets: 'Rulesets',
+    plugins: 'Plugins',
+    settings: 'Settings',
     debug: 'Debug',
-    components: 'Компоненты',
-    about: 'О программе',
-    profiles: 'Профили',
-    kernel: 'Ядро',
-    scheduledtasks: 'Задачи'
+    components: 'Components',
+    about: 'About',
+    profiles: 'Profiles',
+    kernel: 'Kernel',
+    scheduledtasks: 'Tasks'
   },
   home: {
     mode: 'Proxy Mode',
