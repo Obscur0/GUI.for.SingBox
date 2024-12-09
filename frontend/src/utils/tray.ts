@@ -316,27 +316,15 @@ const getTrayMenus = () => {
             },
             {
               type: 'item',
-              text: 'settings.color.pink',
-              checked: appSettings.app.color === Color.Pink,
-              event: () => (appSettings.app.color = Color.Pink)
-            },
-            {
-              type: 'item',
-              text: 'settings.color.red',
-              checked: appSettings.app.color === Color.Red,
-              event: () => (appSettings.app.color = Color.Red)
+              text: 'settings.color.yellow',
+              checked: appSettings.app.color === Color.Yellow,
+              event: () => (appSettings.app.color = Color.Yellow)
             },
             {
               type: 'item',
               text: 'settings.color.skyblue',
               checked: appSettings.app.color === Color.Skyblue,
               event: () => (appSettings.app.color = Color.Skyblue)
-            },
-            {
-              type: 'item',
-              text: 'settings.color.green',
-              checked: appSettings.app.color === Color.Green,
-              event: () => (appSettings.app.color = Color.Green)
             },
             {
               type: 'item',
