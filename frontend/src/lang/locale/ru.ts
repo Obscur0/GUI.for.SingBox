@@ -509,37 +509,37 @@ export default {
   settings: {
     general: 'General',
     theme: {
-      name: 'Theme',
-      light: 'Light Mode',
-      dark: 'Dark Mode',
-      auto: 'System'
+      name: 'Темы',
+      light: 'Светлая тема',
+      dark: 'Тёмная тема',
+      auto: 'Системная'
     },
     color: {
       name: 'Цвет',
-      default: 'Default',
-      orange: 'Orange',
-      yellow: 'Yellow',
-      skyblue: 'Skyblue',
+      default: 'Стандартный',
+      orange: 'Мел',
+      yellow: 'Кура',
+      skyblue: 'Каго',
       purple: 'Purple',
     },
-    fontFamily: 'Font-Family',
-    resetFont: 'Reset Font-Family',
+    fontFamily: 'Шрифт',
+    resetFont: 'Сбросить шрифт',
     appFolder: {
-      name: 'App Folder',
-      open: 'Open application folder'
+      name: 'Папка приложения',
+      open: 'Открыть папку приложения'
     },
     kernelCache: {
-      name: 'Kernel Cache',
-      clear: 'Clear kernel cache'
+      name: 'Кэш ядра',
+      clear: 'Очистить кэш ядра'
     },
     lang: {
-      name: 'Language',
+      name: 'Язык',
       zh: '简体中文',
       en: 'English',
       ru: 'Русский'
     },
     pages: {
-      name: 'Page visibility'
+      name: 'Видимость пунктов меню'
     },
     windowState: {
       normal: 'Normal window',
@@ -553,19 +553,19 @@ export default {
       onDemand: 'OnDemand',
       never: 'Never'
     },
-    needRestart: 'Restart Required',
-    needAdmin: 'Admin required',
-    exitOnClose: 'Exit APP On Window Close',
-    closeKernelOnExit: 'Close Kernel When APP Exits',
+    needRestart: 'Требуется Рестарт',
+    needAdmin: 'Требуются права Админа',
+    exitOnClose: 'Выйти из приложения при закрытии окна',
+    closeKernelOnExit: 'Выключить ядро при зикрытии приложения',
     autoSetSystemProxy: 'Auto Set / Clear System Proxy',
-    autoStartKernel: 'Auto Start Kernel',
-    admin: 'Run As Admin',
-    addToMenu: 'Add Plugin To Menu',
-    multipleInstance: 'Allow Multiple APP Instances',
-    rollingRelease: 'Enable Rolling Release',
+    autoStartKernel: 'Авто старт ядра',
+    admin: 'Запуск от администратора',
+    addToMenu: 'Добавить плагин в меню',
+    multipleInstance: 'Разрешить несколько экземпляров приложения',
+    rollingRelease: 'Включить скользящий выпуск',
     startup: {
-      name: 'Startup on boot',
-      delay: 'Delay(s)'
+      name: 'Автозагрузка',
+      delay: 'Задержка(сек)'
     },
     kernel: {
       name: 'sing-box',
