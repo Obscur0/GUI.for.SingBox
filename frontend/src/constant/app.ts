@@ -53,20 +53,20 @@ export const Colors = {
     secondary: 'rgb(5, 62, 142)'
   },
   [Color.Orange]: {
-    primary: 'orange',
+    primary: '#d48022',
     secondary: '#d6a976'
   },
   [Color.Yellow]: {
-    primary: 'yellow',
-    secondary: '#d38e33'
+    primary: '#d38e33',
+    secondary: '#b88542'
   },
   [Color.Skyblue]: {
-    primary: 'skyblue',
-    secondary: '#5f8ba8'
+    primary: '#5f8ba8',
+    secondary: '#144463'
   },
   [Color.Purple]: {
-    primary: 'purple',
-    secondary: '#6b47a1'
+    primary: '#6b47a1',
+    secondary: '#382654'
   }
 }
 
