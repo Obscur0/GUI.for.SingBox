@@ -152,6 +152,11 @@ export const getCommands = () => {
               label: 'settings.lang.en',
               cmd: 'English',
               handler: () => (appSettings.app.lang = Lang.EN)
+            },
+            {
+              label: 'settings.lang.ru',
+              cmd: 'English',
+              handler: () => (appSettings.app.lang = Lang.RU)
             }
           ]
         },
