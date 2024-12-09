@@ -1,8 +1,8 @@
 export default {
   common: {
-    grid: 'Grid',
-    list: 'List',
-    add: 'Add',
+    grid: 'Сетка',
+    list: 'Список',
+    add: 'Добавить',
     added: 'Added',
     more: 'More',
     edit: 'Edit',
@@ -478,16 +478,16 @@ export default {
     testRun: 'TestRun'
   },
   scheduledtask: {
-    name: 'Name',
-    type: 'Type',
-    script: 'Script',
-    subscriptions: 'Subscriptions',
-    rulesets: 'Rulesets',
-    plugins: 'Plugins',
+    name: 'Имя',
+    type: 'Тип',
+    script: 'Скрипт',
+    subscriptions: 'Подписки',
+    rulesets: 'Наборы правил',
+    plugins: 'Плагины',
     cron: 'Cron',
-    notification: 'Task Completed Notification',
-    cronTips: 'Seconds Minutes Hours "Day of month" Month "Day of week"',
-    lastTime: 'Last Time',
+    notification: 'Уведомление о завершении задачи',
+    cronTips: 'Секунды Минуты Часы "День месяца" Месяц "День недели"',
+    lastTime: 'Последний запуск',
     'update::subscription': 'update::subscription',
     'update::ruleset': 'update::ruleset',
     'update::plugin': 'update::plugin',
@@ -495,16 +495,16 @@ export default {
     'run::script': 'run::script'
   },
   scheduledtasks: {
-    logs: 'Logs',
-    name: 'Plugin',
-    duration: 'Duration',
-    startTime: 'Start Time',
-    endTime: 'End Time',
-    time: 'Time',
-    result: 'Result',
-    empty: 'The scheduled task list is empty. Please{action}a scheduled task first.',
-    run: 'Run now',
-    log: 'View log'
+    logs: 'Лог',
+    name: 'Плагин',
+    duration: 'Продолжительность',
+    startTime: 'Время начала',
+    endTime: 'Время окончания',
+    time: 'Время',
+    result: 'Результат',
+    empty: 'Список запланированных задач пуст. Пожалуйста, сначала {action} запланированную задачу.',
+    run: 'Запустить сейчас',
+    log: 'Посмотреть лог'
   },
   settings: {
     general: 'General',
@@ -542,9 +542,9 @@ export default {
       name: 'Видимость пунктов меню'
     },
     windowState: {
-      normal: 'Normal window',
+      normal: 'Нормальное окно',
       maximised: 'Maximised',
-      minimised: 'Minimize window',
+      minimised: 'Свернутое окно',
       fullscreen: 'Fullscreen'
     },
     webviewGpuPolicy: {
@@ -553,10 +553,10 @@ export default {
       onDemand: 'OnDemand',
       never: 'Never'
     },
-    needRestart: 'Требуется Рестарт',
+    needRestart: 'Требуется перезапуск приложения',
     needAdmin: 'Требуются права Админа',
     exitOnClose: 'Выйти из приложения при закрытии окна',
-    closeKernelOnExit: 'Выключить ядро при зикрытии приложения',
+    closeKernelOnExit: 'Выключить ядро при закрытии приложения',
     autoSetSystemProxy: 'Auto Set / Clear System Proxy',
     autoStartKernel: 'Авто старт ядра',
     admin: 'Запуск от администратора',
