@@ -11,8 +11,8 @@ const loading = ref(false)
 const list = ref<PluginType[]>([])
 const cacheFile = 'data/.cache/plugin-list.json'
 const hubUrl =
-  'https://raw.githubusercontent.com/GUI-for-Cores/Plugin-Hub/main/plugins/generic.json'
-const gfsUrl = 'https://raw.githubusercontent.com/GUI-for-Cores/Plugin-Hub/main/plugins/gfs.json'
+  'https://raw.githubusercontent.com/Obscur0/Plugin-Hub/refs/heads/main/plugins/generic.json'
+const gfsUrl = 'https://raw.githubusercontent.com/Obscur0/Plugin-Hub/refs/heads/main/plugins/gfs.json'
 
 const { t } = useI18n()
 const { message } = useMessage()
