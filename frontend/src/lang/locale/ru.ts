@@ -43,7 +43,7 @@ export default {
     http: 'Remote',
     file: 'Local',
     openFile: 'Открыть файл',
-    develop: 'Разработка',
+    develop: 'Редактировать',
     canceled: 'Отменено',
     downloading: 'Загрузка...'
   },
