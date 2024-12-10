@@ -54,11 +54,11 @@ export const Colors = {
   },
   [Color.Orange]: {
     primary: '#d48022',
-    secondary: '#d6a976'
+    secondary: '#633f10'
   },
   [Color.Yellow]: {
     primary: '#ebc400',
-    secondary: '#d9d214'
+    secondary: '#7d6801'
   },
   [Color.Skyblue]: {
     primary: '#1d88cf',
