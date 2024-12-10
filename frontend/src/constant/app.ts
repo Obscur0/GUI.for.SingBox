@@ -57,7 +57,7 @@ export const Colors = {
     secondary: '#633f10'
   },
   [Color.Yellow]: {
-    primary: '#ebc400',
+    primary: '#d1ab00',
     secondary: '#7d6801'
   },
   [Color.Skyblue]: {
