@@ -57,11 +57,11 @@ export const Colors = {
     secondary: '#d6a976'
   },
   [Color.Yellow]: {
-    primary: '#d38e33',
-    secondary: '#b88542'
+    primary: '#ebc400',
+    secondary: '#d9d214'
   },
   [Color.Skyblue]: {
-    primary: '#5f8ba8',
+    primary: '#1d88cf',
     secondary: '#144463'
   },
   [Color.Purple]: {
