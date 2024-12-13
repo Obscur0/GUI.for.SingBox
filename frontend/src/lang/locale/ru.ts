@@ -36,7 +36,7 @@ export default {
     import: 'Импорт',
     install: 'Установить',
     uninstall: 'Удалить',
-    run: 'Run',
+    run: 'Запуск',
     refresh: 'Обновить',
     confirm: 'OK',
     selectAll: 'Выбрать всё',
