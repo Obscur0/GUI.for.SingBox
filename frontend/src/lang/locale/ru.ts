@@ -360,7 +360,7 @@ export default {
     enterLink: 'Enter subscription link',
     proxyCount: 'Колличество прокси',
     editProxies: 'Редактировать прокси',
-    editSourceFile: 'Редактировать прокси(Исходник)',
+    editSourceFile: 'Редактировать прокси(Код)',
     copySub: 'Copy Link',
     proxies: {
       type: 'Protocol',
@@ -412,7 +412,7 @@ export default {
     manual: 'MANUAL',
     format: {
       name: 'Формат',
-      source: 'Источник',
+      source: 'Source',
       binary: 'Binary'
     },
     rulesetType: 'Ruleset Type',
@@ -467,7 +467,7 @@ export default {
   plugins: {
     updating: 'Обновление',
     empty: 'The plugin list is empty. Please{action}or import from the{import}first.',
-    source: 'Source',
+    source: 'Код',
     reload: 'Перезагрузить',
     configuration: 'Конфигурация',
     hub: 'Каталог плагинов',
