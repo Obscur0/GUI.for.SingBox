@@ -70,7 +70,7 @@ export default {
     direct: 'Direct',
     ruleDesp: 'Маршрутизация траффика на основе правил',
     globalDesp: 'Весь траффик через VPN',
-    directDesp: 'ПВесь траффик напрямую',
+    directDesp: 'Весь траффик напрямую',
     'keep-alive-interval': 'Keep Alive Interval',
     'find-process-mode': 'Find Process Mode',
     'external-controller-tls': 'External Controller Tls',
