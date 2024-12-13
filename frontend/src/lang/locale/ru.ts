@@ -361,7 +361,7 @@ export default {
     proxyCount: 'Колличество прокси',
     editProxies: 'Редактировать прокси',
     editSourceFile: 'Редактировать прокси(Код)',
-    copySub: 'Copy Link',
+    copySub: 'Копировать ссылку',
     proxies: {
       type: 'Protocol',
       name: 'Name',
