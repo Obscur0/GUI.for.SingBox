@@ -520,7 +520,7 @@ export default {
       orange: 'Мел',
       yellow: 'Кура',
       skyblue: 'Каго',
-      purple: 'Ютик Уютик',
+      purple: 'Юта',
     },
     fontFamily: 'Шрифт',
     resetFont: 'Сбросить шрифт',
